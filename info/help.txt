@@ -1,1 +1,1 @@
-Урок 1. Установка LiveReload.
+Уроки по html, css, php, vk api, и.т.д. 
