@@ -1,0 +1,14 @@
+.button {
+    padding: 10px 20px; 
+    background: #636363; 
+    color: #f0f0f0; 
+    display: inline-block; 
+    margin: 10px; 
+    
+}
+.result {
+    width: 200px; 
+    height: 20px; 
+    border: 1px solid #ccc; 
+    
+}
