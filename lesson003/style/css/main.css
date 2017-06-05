@@ -1,0 +1,30 @@
+/*
+div.MyBlock {
+    background: #f0f0f0; 
+    width: 200px; 
+    height: 200px; 
+    
+}*/
+
+/*
+.MyBlock {
+    background: #f0f0f0; 
+    width: 200px; 
+    height: 200px; 
+    
+}*/
+
+/*
+div#MyBlock {
+    background: #f0f0f0; 
+    width: 200px; 
+    height: 200px; 
+    
+}
+*/
+
+#MyBlock {
+    background: #f0f0f0; 
+    width: 200px; 
+    height: 200px;    
+}
