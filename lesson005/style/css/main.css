@@ -1,0 +1,25 @@
+/*Ссылка*/
+a {
+    background: #87cafc;
+    display: inline-block; 
+    padding: 10px 20px; 
+    font-size: 14px;
+    color: #ffffff; 
+    text-decoration: none; 
+    font-weight: 700; 
+    border: 1px solid #6bc0ff; 
+    transform: 0.9s; 
+    
+}
+a:hover {
+    background: #afddff; 
+    border: 1px solid #64bdff; 
+    box-shadow: #53b6ff 0px 0px 10px -2px; 
+    
+}
+a:active {
+    background: #b9e1ff;
+    border: 1px solid #6bc0ff; 
+    box-shadow: #53b6ff 0px 0px 10px -2px;
+    
+}
