@@ -1,1 +1,1 @@
-﻿
+jQuery Атрибут HTML и jQuery Атрибут TEXT
