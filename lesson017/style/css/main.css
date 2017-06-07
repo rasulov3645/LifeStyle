@@ -1,0 +1,10 @@
+.link {
+	padding: 10px 30px; 
+	border: 1px solid #ccc; 
+	background: #f0f0f0; 
+	
+}
+.linkClick {
+	border: 1px solid #f0f0f0; 
+	background: #ccc; 
+}
